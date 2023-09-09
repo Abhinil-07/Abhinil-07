@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinil-07" alt="abhinil-07" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Developement**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/AbhinilNath?utm_source=linktree_profile_share&ltsid=be3a4b86-efc8-4dfe-b29a-93c30800e723](https://linktr.ee/AbhinilNath?utm_source=linktree_profile_share&ltsid=be3a4b86-efc8-4dfe-b29a-93c30800e723)
 
