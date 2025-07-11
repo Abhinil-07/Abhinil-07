@@ -20,9 +20,9 @@
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/10422488?s=200&v=4" width="36" height="36" alt="Databricks" />
   </a>
-  <a href="https://azure.microsoft.com/en-in/products/data-factory/" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-us/azure/data-factory/media/overview/data-factory-logo.png" width="36" height="36" alt="Azure Data Factory" />
-  </a>
+ <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer">
+  <img src="https://vecta.io/symbols/28/microsoft-azure-color/27/data-factory.svg" width="36" height="36" alt="Azure Data Factory" />
+</a>
   <a href="https://azure.microsoft.com/en-us/products/storage/data-lake-storage/" target="_blank" rel="noreferrer">
     <img src="https://azure.microsoft.com/svghandler/data-lake-storage/gen2?width=600&height=315" width="36" height="36" alt="ADLS Gen2" />
   </a>
