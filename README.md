@@ -7,9 +7,9 @@
   - 💬 I enjoy designing and building scalable data pipelines
   - 🤘 You can find various projects on my profile
 - 🧑🏻‍🏫 I am currently learning
-  - Advanced PySpark & Azure Data Engineering Stack
+  - PySpark & Azure Data Engineering Stack
+  - Delta Lakes and Databricks
   - Data Orchestration with Apache Airflow
-  - Optimizing high-performance data systems
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/)
 
 ---
@@ -17,16 +17,15 @@
 ## 🛠 Skills & Technologies I’m Proficient In
 
 **Programming & Scripting**
-- Python (Pandas, PySpark)
-- SQL (T-SQL, ANSI SQL)
-- Shell Scripting (Bash)
+- Python
+- SQL
 
 **Data Engineering & Big Data**
-- Azure Data Factory (ADF)
+- Azure Data Factory
 - Azure Synapse Analytics
 - Azure Data Lake Storage (ADLS)
-- Databricks (PySpark, Delta Lake)
-- Control-M (Job Scheduling & Monitoring)
+- Databricks
+- Apache Airflow
 
 **Data Processing & Storage**
 - Apache Spark
@@ -37,10 +36,16 @@
 - Git, GitHub
 - Azure DevOps
 
-**Other Tools**
-- Linux
-- REST APIs Integration
-- Data Quality & Validation (Great Expectations basics)
+**DevOps & Containerization**
+- Docker
+- Kubernetes
+
+---
+
+## 📜 Certifications
+- Currently preparing for:
+  - Databricks Certified Data Engineer Associate
+  - Microsoft Azure Data Fundamentals (DP-900)
 
 ---
 
