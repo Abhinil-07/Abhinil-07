@@ -2,8 +2,7 @@
 
 ## Thanks for stopping by! Here's a little bit about me...
 
-- 😄 My pronouns are: She/Her
-- 🔭 I’m currently working as a Data Engineer
+- 🔭 I’m currently working as a Data Engineer at Accenture
   - 👯 Always open for collaborating on exciting data engineering projects
   - 💬 I enjoy designing and building scalable data pipelines
   - 🤘 You can find various projects on my profile
