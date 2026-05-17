@@ -44,10 +44,9 @@
 
 ## 📜 Certifications
 - Certified:
+  - Databricks Certified Data Engineer Professional
   - Databricks Certified Data Engineer Associate
   - Microsoft Azure Data Fundamentals (DP-900)
-- Currently preparing for:
-  - Databricks Certified Data Engineer Professional
 
 ---
 
